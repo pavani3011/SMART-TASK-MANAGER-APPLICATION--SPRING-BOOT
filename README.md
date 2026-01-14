@@ -22,28 +22,6 @@ Service: Contains business logic
 Repository: Communicates with MySQL using JPA
 Entity: Maps Java objects to database tables
 
-📂 Project Structure:
-
-com.pavs.taskmanager
-│
-├── controller
-│   ├── HelloController.java
-│   ├── UserController.java
-│   └── TaskController.java
-│
-├── service
-│   ├── UserService.java
-│   └── TaskService.java
-│
-├── repository
-│   ├── UserRepository.java
-│   └── TaskRepository.java
-│
-├── entity
-│   ├── User.java
-│   └── Task.java
-│
-└── TaskmanagerApplication.java
 
 
 
